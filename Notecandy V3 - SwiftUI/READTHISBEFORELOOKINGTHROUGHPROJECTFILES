@@ -1,0 +1,3 @@
+Quick note:
+
+Files in the "whisper.cpp.swift" folder were imported from the open-source SwiftUI package WhisperCPP, and I adapted these for my use case.
